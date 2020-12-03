@@ -18,7 +18,7 @@ Project Guide:
 Dr. M. Nirmala Devi,  AP, CSE, TCE
 
 Team members:
-Jose Antony I
-Karthick N
+Jose Antony I,
+Karthick N,
 Vijay Adhithyan M
 

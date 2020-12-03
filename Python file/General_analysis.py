@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 class General_analysis:
     
     def statistics_of_numerical_columns(self):

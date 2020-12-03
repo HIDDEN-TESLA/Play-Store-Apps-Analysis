@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 class Visual_analysis:
     
     def display_mean_rating_for_each_category(self):

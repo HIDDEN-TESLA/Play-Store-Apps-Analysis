@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 class Final_pts_calculation:
     
     def get_empty_dict(self):

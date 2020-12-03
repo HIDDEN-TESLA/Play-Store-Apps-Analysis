@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 class Dataset_reading_and_manipulation:
     
     def reading_dataset(self):

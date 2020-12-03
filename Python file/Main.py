@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 get_ipython().run_line_magic('run', 'Dataset_reading_and_manipulation.ipynb')
 get_ipython().run_line_magic('run', 'General_analysis.ipynb')
 get_ipython().run_line_magic('run', 'Mapping_data.ipynb')
